@@ -1,0 +1,9 @@
+{
+    "name": "dljtest",
+    "scripts": {
+        "start": "node run dist/api"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
